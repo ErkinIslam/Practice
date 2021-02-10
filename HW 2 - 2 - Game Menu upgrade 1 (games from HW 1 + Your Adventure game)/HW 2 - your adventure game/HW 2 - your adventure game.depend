@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590546168 source:d:\codeblocks\my projects\csc 126 - review\hw 2 - your adventure game\main.cpp
+	<iostream>
+	<stdlib.h>
+

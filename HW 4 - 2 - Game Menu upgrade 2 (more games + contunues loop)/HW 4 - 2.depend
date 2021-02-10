@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1590684494 source:d:\codeblocks\my projects\csc 126 - review\hw 4 - 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<cmath>
+	<ctime>
+
+1590684559 source:d:\codeblocks\my projects\csc 126 - review\hw 4 - 2 - game menu upgrade 2 (more games + contunues loop)\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+	<cmath>
+	<ctime>
+

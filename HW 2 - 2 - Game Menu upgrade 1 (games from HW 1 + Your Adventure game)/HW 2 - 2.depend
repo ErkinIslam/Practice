@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1590550318 source:d:\codeblocks\my projects\csc 126 - review\hw 2 - 2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string>
+

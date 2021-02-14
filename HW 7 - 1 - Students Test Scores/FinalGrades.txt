@@ -1,0 +1,4 @@
+Original Test Scores:  55 77 94 95 94 66 77 78 79 104 102 86 87 84 94 
+Average is: 80.9667
+New Test Scores:       65 87 99 100 99 76 87 88 89 109 107 91 92 89 99 
+14 students got over 90 on the test
